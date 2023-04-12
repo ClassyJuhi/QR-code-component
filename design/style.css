@@ -1,0 +1,11 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+height: 50%;
+width: 30%;
+background-color: hsl(0, 45%, 6%);
+}
